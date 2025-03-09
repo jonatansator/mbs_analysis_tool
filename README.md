@@ -38,3 +38,6 @@
 - **Cash Flows**: Generated based on principal, coupon rate, term, PSA factor, and discount rate.
 - **WAL**: Computed as the sum of cash flows times their periods divided by total cash flows.
 - **Price**: Discounted present value of cash flows using the specified discount rate.
+
+## Screenshots
+![output](output_.png)
